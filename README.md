@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Bhoite</h1>
 <h3 align="center">💻 Full-Stack Developer | 🌐 Cloud Enthusiast | 🤖 AI/ML Explorer | 🎓 BTech @ COEPune | 🥇 Gold Medalist & College Topper @ GPPune| 🚀 Innovator</h3>
+<img align = "right" alt = "https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
 
 - 🌱 I’m currently learning **🖥️ Advanced Data Structures and Algorithms 🌐 Web3 and Blockchain Development 🤖 Deep Learning & AI Model Optimization ☁️ Advanced Cloud Computing (AWS, Azure) 🚀 Competitive Programming**
 
