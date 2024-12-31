@@ -1,8 +1,10 @@
+
+
 <h1 align="center">Hi 👋, I'm Pranav Bhoite</h1>
 <h3 align="center">💻 Full-Stack Developer | 🌐 Cloud Enthusiast | 🤖 AI/ML Explorer | 🎓 BTech @ COEPune | 🥇 Gold Medalist & College Topper @ GPPune| 🚀 Innovator</h3>
-<img align = "right" alt = "https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
+<img align="right" alt="Animated Gif" width = "400" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" >
 
-- 🌱 I’m currently learning **🖥️ Advanced Data Structures and Algorithms 🌐 Web3 and Blockchain Development 🤖 Deep Learning & AI Model Optimization ☁️ Advanced Cloud Computing (AWS, Azure) 🚀 Competitive Programming**
+- 🌱 I’m currently learning **🖥️ Advanced Data Structures and Algorithm 🤖 Deep Learning & AI Model Optimization ☁️ Advanced Cloud Computing (AWS, Azure)**
 
 - 👨‍💻 All of my projects are available at [https://pranav-bhoite45.netlify.app/](https://pranav-bhoite45.netlify.app/)
 
