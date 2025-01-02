@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/c4ad9600-c27c-4b77-a62a-a638fe051df0)
+![Banner](https://github.com/user-attachments/assets/6b836e47-ab89-4bb1-902b-8bf231ccfe88)
 
 
 <h1 align="center">Hi 👋, I'm Pranav Bhoite</h1>
