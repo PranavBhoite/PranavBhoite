@@ -1,8 +1,9 @@
+![Banner](https://github.com/user-attachments/assets/c4ad9600-c27c-4b77-a62a-a638fe051df0)
 
 
 <h1 align="center">Hi 👋, I'm Pranav Bhoite</h1>
 <h3 align="center">💻 Full-Stack Developer | 🌐 Cloud Enthusiast | 🤖 AI/ML Explorer | 🎓 BTech @ COEPune | 🥇 Gold Medalist & College Topper @ GPPune| 🚀 Innovator</h3>
-<img align="right" alt="Animated Gif" width = "400" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" >
+<img align="right" alt="Animated Gif" width = "400" src="https://user-images.githubusercontent.com/24664153/197371678-9a748b89-0ae7-4446-841e-18396e7bc0ab.gif" >
 
 - 🌱 I’m currently learning **🖥️ Advanced Data Structures and Algorithm 🤖 Deep Learning & AI Model Optimization ☁️ Advanced Cloud Computing (AWS, Azure)**
 
