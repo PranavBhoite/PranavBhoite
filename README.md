@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pranav-bhoite-5356a6268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-bhoite-5356a6268/" height="30" width="40" /></a>
 <a href="https://instagram.com/pranav_bhoite_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav_bhoite_45" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pranavfusion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranavfusion" height="30" width="40" /></a>
+
 
 </p>
 
